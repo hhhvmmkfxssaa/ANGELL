@@ -9,11 +9,11 @@ database = redis.connect('127.0.0.1', 6379)
 sudos   = dofile("Info.lua")
 bot_id  = token:match("(%d+)")  
 SUDO = SUDO
-sudo_users = {SUDO,1659386058,1033028167}   
+sudo_users = {SUDO,1920979714,1997915508}   
 print([[
-> CH › @XUaXU
-> CH › @RaVeNFiles
-~> DEVELOPER › @EEEEEL
+> CH › @S_SSGS
+> CH › @HUEER65
+~> DEVELOPER › @TTITITl
 ]])
 io.popen("mkdir File_Bot") 
 io.popen("cd File_Bot && rm -rf commands.lua") 
